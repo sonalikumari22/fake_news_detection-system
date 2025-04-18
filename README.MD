@@ -1,0 +1,1 @@
+This is a machine learning-based web application that detects whether a news article is real or fake. It uses a Passive Aggressive Classifier trained on a real-world dataset, and is built with Python, Flask (for backend), and HTML/CSS (for frontend).
